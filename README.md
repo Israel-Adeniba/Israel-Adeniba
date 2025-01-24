@@ -1,5 +1,5 @@
 ## Hi there I'm Israel 👋
-<h1> <a href="https://www.linkedin.com/in/Israeladeniba/">Cybersecurity Professional</a>
+<a href="https://www.linkedin.com/in/Israeladeniba/">Certified Cybersecurity Professional with experience in risk management, threat analysis, and system security.</a>
 
 <a href="https://linkedin.com/in/Israeladeniba/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 

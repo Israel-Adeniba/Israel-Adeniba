@@ -1,6 +1,8 @@
 ## Hi there I'm Israel 👋
 <h1> <a href="https://www.linkedin.com/in/Israeladeniba/">Cybersecurity Professional</a>
 
+<a href="https://linkedin.com/in/Israeladeniba/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Building a Cybersecurity Lab</b>

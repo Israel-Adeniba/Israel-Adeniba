@@ -12,6 +12,8 @@ My motivation to protect systems and my degree in Systems Engineering have led m
 - <b>Building a Cybersecurity Lab</b>
   - [Building a Cybersecurity Lab](https://github.com/Israel-Adeniba/Building-a-Cbersecurity-Lab/blob/main/README.md#building-a-cbersecurity-lab)
   - [Building an Elastic SIEM Lab](https://github.com/Israel-Adeniba/Building-an-Elastic-SIEM-Lab?tab=readme-ov-file#)
+  - [How to Build an Active Directory IAM Home Lab Using Virtualbox](https://github.com/Israel-Adeniba/How-to-Build-an-Active-Directory-IAM-Home-Lab-Using-VirtualBox)
+  - [Building a (TCP/UDP) Honeypot](https://github.com/Israel-Adeniba/Building-a-Honeypot-TCP-UDP-)
 
 
 ## Certifications
